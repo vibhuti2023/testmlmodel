@@ -3,7 +3,7 @@ import pandas as pd
 import joblib
 from sklearn.ensemble import RandomForestClassifier
 
-st.title('Test model inference!')
+st.title('Test model CICD!')
 
 with st.sidebar:
     st.header('Data requirements')
