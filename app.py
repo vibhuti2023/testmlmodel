@@ -3,7 +3,7 @@ import pandas as pd
 import joblib
 from sklearn.ensemble import RandomForestClassifier
 
-st.title('Iris model inference!')
+st.title('Test model inference!')
 
 with st.sidebar:
     st.header('Data requirements')
