@@ -3,7 +3,7 @@ import pandas as pd
 import joblib
 from sklearn.ensemble import RandomForestClassifier
 
-st.title('Test model CICD!')
+st.title('New Changes Updated!')
 
 with st.sidebar:
     st.header('Data requirements')
