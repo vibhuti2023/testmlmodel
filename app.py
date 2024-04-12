@@ -3,7 +3,7 @@ import pandas as pd
 import joblib
 from sklearn.ensemble import RandomForestClassifier
 
-st.title('New Changes Updated!')
+st.title('ML Model Automation!')
 
 with st.sidebar:
     st.header('Data requirements')
