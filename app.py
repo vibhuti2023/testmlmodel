@@ -3,7 +3,7 @@ import pandas as pd
 import joblib
 from sklearn.ensemble import RandomForestClassifier
 
-st.title('ML Model Automation!')
+st.title('PIPELINE FOR ML MODEL!')
 
 with st.sidebar:
     st.header('Data requirements')
