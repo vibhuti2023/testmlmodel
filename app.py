@@ -3,7 +3,7 @@ import pandas as pd
 import joblib
 from sklearn.ensemble import RandomForestClassifier
 
-st.title('CI CD PIPELINE FOR ML MODEL!')
+st.title('Rahul project!')
 
 with st.sidebar:
     st.header('Data requirements')
